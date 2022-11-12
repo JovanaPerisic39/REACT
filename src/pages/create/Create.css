@@ -1,0 +1,51 @@
+.create {
+    color: rgb(255, 255, 255);
+    max-width: 480px;
+    margin: 60px auto;
+}
+.create textarea{
+    background-color: #FCE2DB;
+}
+.create input{
+    background-color: #FCE2DB;
+}
+.create label span {
+    
+    display: block;
+    margin: 30px 0 10px;
+
+}
+
+.create h2{
+    color: black;
+}
+
+.create p {
+
+    margin-top: 10px;
+    font-size: 0.8em;
+    color:black;
+}
+
+.create button {
+    display: block;
+    width: 100px;
+    font-size: 1em;
+    color: rgb(34, 33, 33);
+    padding: 8px 10px;
+    border: 0;
+    border-radius: 4px;
+    background-color: #FCE2DB ;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px auto;
+}
+
+.keywords {
+    display: flex;
+    align-items: center;
+}
+
+.keywords button {
+    margin: 0 0 0 10px;
+}

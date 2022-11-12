@@ -1,0 +1,55 @@
+.poslastica {
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+    background: #FCE2DB;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.poslastica ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.poslastica li {
+    list-style-type: none;
+    margin-right: 10px;
+    color:  black;
+    
+}
+
+.poslastica li::after {
+    content: ",";
+}
+
+.poslastica li:last-child::after {
+    content: ".";
+}
+
+.poslastica h2{
+    color: black;
+}
+
+.description {
+    text-align: left;
+    line-height: 1.5em;
+    color: rgb(67, 67, 67);
+    margin-bottom: 30px;
+}
+.card-img-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    width: 60%;
+    height: 60%;
+}
+.poslastica .ingredients{
+    color: black;
+}
+
+

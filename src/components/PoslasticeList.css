@@ -1,0 +1,60 @@
+.poslastica-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.poslastica-list .card {
+    background: #fff;
+    color: rgb(40, 40, 40);
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.poslastica-list .card:hover {
+    transform: rotate(2deg);
+}
+
+.poslastica .card h3 {
+    color: rgb(49, 49, 49);
+    margin-bottom: 6px;
+}
+
+.poslastica-list .card p {
+    color:  #373737;
+    font-size: 0.9em;
+}
+
+.poslastica-list .card div {
+    color: #555;
+    font-size: 0.7em;
+    margin: 20px 0;
+    line-height: 1.5em;
+}
+
+.poslastica-list .card a {
+    color: #555;
+    text-decoration: none;
+    display: block;
+    background: #FCE2DB;
+    font-size: 0.9em;
+    text-align: center;
+    width: 120px;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 20px auto 0;
+}
+.card-img-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    width: 200px;
+    height: 200px;
+} 

@@ -1,0 +1,51 @@
+.navbar {
+    padding: 5px;
+    color: #fff;
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    background-color: #FCE2DB;
+
+}
+
+.navbar nav {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar a.brand {
+  
+    color: #fff;
+    text-decoration: bold;
+}
+
+
+.navbar a {
+    color: rgb(6, 6, 6);
+    text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 4px;
+    font-weight: 400;
+    
+}
+
+
+.navbar a:last-child:hover {
+    
+    color: #333;
+}
+
+.navbar img{
+    height: 100px;
+    margin-right: 500px;
+   
+}  
+
+.navbar h1{
+    margin-right: 15cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    
+}
