@@ -7,8 +7,9 @@
 .searcbar input {
     margin-left: 10px;
 }
+
 #search{
-    background-color: #FAF7F0;
+    background-color: #F9F9F9;
 }
 label{
     color: black;
