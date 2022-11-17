@@ -2,7 +2,7 @@
     max-width: 800px;
     margin: 40px auto;
     text-align: center;
-    background: #FCE2DB;
+    background: #fce2dbc3;
     padding: 40px;
     box-sizing: border-box;
 }
@@ -12,6 +12,7 @@
     padding: 0;
     justify-content: center;
     margin-top: 0;
+    font-size: 16px;
 }
 
 .poslastica li {
@@ -31,12 +32,13 @@
 
 .poslastica h2{
     color: black;
+    margin-bottom: 10px;
 }
 
 .description {
-    text-align: left;
+    text-align: center;
     line-height: 1.5em;
-    color: rgb(67, 67, 67);
+    color: black;
     margin-bottom: 30px;
 }
 .card-img-center{
