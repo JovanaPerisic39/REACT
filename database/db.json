@@ -1,0 +1,51 @@
+{
+  "poslastice": [
+    {
+      "id": "1",
+      "title": "Čokoladna krofna",
+      "photo": "https://www.beyondthechickencoop.com/wp-content/uploads/2022/01/Chocolate-Donut.jpg",
+      "keywords": [
+        "cokolada",
+        "krofna",
+        "eurokrem"
+      ],
+      "description": "Cokoladna krofna punjena eurokremom ",
+      "ingredients": "brašno, jaja, ulje, šećer, kvasac, čokoladnu puding, maslac"
+    },
+    {
+      "id": "2",
+      "title": "Mafin sa borovnicama",
+      "photo": "https://thebusybaker.ca/wp-content/uploads/2020/07/blueberry-muffins-fb-ig-7-scaled.jpg",
+      "keywords": [
+        "mafin",
+        "borovnice",
+        "brzo"
+      ],
+      "description": "Svezi mafini punjeni borovnicama",
+      "ingredients": "puter, jaja, smeđi šećer, mleko, ekstrakt vanile, brašno, prašak za pecivo, so, borovnice"
+    },
+    {
+      "title": "Čizkejk",
+      "photo": "https://www.jocooks.com/wp-content/uploads/2018/11/cheesecake-1-22-500x500.jpg",
+      "keywords": [
+        "cizkejk",
+        "crveno voce"
+      ],
+      "ingredients": "plazma keks, mleko,maslac, sir,vanilin šećer,voda,želatin, pavlaka,šećer u prahu,crveno voće, šećera",
+      "description": "Lagan, kremast, osvežavajuć i pun voca.",
+      "id": "N_s8Z7K"
+    },
+    {
+      "title": "Americke palacinke",
+      "photo": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd30%2Feasy-basic-pancakes-horiz-1022%2Feasy-basic-pancakes-horiz-1022_0.jpg%3Fitok%3DXQMZkp_j",
+      "keywords": [
+        "palacinka",
+        "krem",
+        "maslac"
+      ],
+      "ingredients": "brašno, jaja, ulje, mleko, voda",
+      "description": "Klasicne vazdusaste americke palacinke",
+      "id": "IgrIDQh"
+    }
+  ]
+}
